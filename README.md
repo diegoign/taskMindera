@@ -1,0 +1,2 @@
+# taskMindera
+Programming task Mindera
